@@ -1,0 +1,6 @@
+# The program itself needs no third-party packages.
+# It uses only the Python standard library (tkinter, os, datetime).
+# Python 3.8 or newer is recommended.
+#
+# Optional - only to regenerate the charts in docs/images/ (analysis/data_interpretation.py):
+# matplotlib
